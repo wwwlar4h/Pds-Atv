@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\2022102020030\\source\\repos\\tela_adm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|C:\\Users\\2022102020030\\source\\repos\\tela_adm\\professores.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|C:\\Users\\2022102020030\\source\\repos\\tela_adm\\alunos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|solutionrelative:alunos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|c:\\users\\2022102020030\\source\\repos\\tela_adm\\professores.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|solutionrelative:professores.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|c:\\users\\2022102020030\\source\\repos\\tela_adm\\telalogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|solutionrelative:telalogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|C:\\Users\\2022102020030\\source\\repos\\tela_adm\\turmas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|solutionrelative:turmas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|C:\\Users\\2022102020030\\source\\repos\\tela_adm\\cursos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|solutionrelative:cursos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|C:\\Users\\2022102020030\\source\\repos\\tela_adm\\telalogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|solutionrelative:telalogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|C:\\Users\\2022102020030\\source\\repos\\tela_adm\\escolas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -23,16 +27,12 @@
       "RelativeMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|C:\\Users\\2022102020030\\source\\repos\\tela_adm\\cursos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|solutionrelative:cursos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|C:\\Users\\2022102020030\\source\\repos\\tela_adm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|C:\\Users\\2022102020030\\source\\repos\\tela_adm\\alunos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|solutionrelative:alunos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|C:\\Users\\2022102020030\\source\\repos\\tela_adm\\turmas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8A826936-A667-4639-AFBA-FF122378F183}|tela_adm.csproj|solutionrelative:turmas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2022102020030\\AppData\\Local\\Temp\\.vsdbgsrc\\c6ee7f6fec133611eb2a064e1a788d1d2474410b0c2beae8c7d187c8d89dcad0\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -56,7 +56,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
@@ -97,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TelaLogin.xaml",
               "DocumentMoniker": "C:\\Users\\2022102020030\\source\\repos\\tela_adm\\TelaLogin.xaml",
               "RelativeDocumentMoniker": "TelaLogin.xaml",
@@ -109,29 +109,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\2022102020030\\source\\repos\\tela_adm\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\2022102020030\\source\\repos\\tela_adm\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-12T12:27:40.597Z"
+              "WhenOpened": "2024-03-12T12:27:40.597Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Escolas.xaml",
               "DocumentMoniker": "C:\\Users\\2022102020030\\source\\repos\\tela_adm\\Escolas.xaml",
               "RelativeDocumentMoniker": "Escolas.xaml",
               "ToolTip": "C:\\Users\\2022102020030\\source\\repos\\tela_adm\\Escolas.xaml",
               "RelativeToolTip": "Escolas.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-16T13:22:03.089Z"
+              "WhenOpened": "2024-04-16T13:22:03.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Cursos.xaml",
               "DocumentMoniker": "C:\\Users\\2022102020030\\source\\repos\\tela_adm\\Cursos.xaml",
               "RelativeDocumentMoniker": "Cursos.xaml",
@@ -142,18 +144,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Turmas.xaml",
               "DocumentMoniker": "C:\\Users\\2022102020030\\source\\repos\\tela_adm\\Turmas.xaml",
               "RelativeDocumentMoniker": "Turmas.xaml",
               "ToolTip": "C:\\Users\\2022102020030\\source\\repos\\tela_adm\\Turmas.xaml",
               "RelativeToolTip": "Turmas.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-16T14:06:36.12Z"
+              "WhenOpened": "2024-04-16T14:06:36.12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Professores.xaml",
               "DocumentMoniker": "C:\\Users\\2022102020030\\source\\repos\\tela_adm\\Professores.xaml",
               "RelativeDocumentMoniker": "Professores.xaml",
@@ -165,18 +168,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Alunos.xaml",
               "DocumentMoniker": "C:\\Users\\2022102020030\\source\\repos\\tela_adm\\Alunos.xaml",
               "RelativeDocumentMoniker": "Alunos.xaml",
               "ToolTip": "C:\\Users\\2022102020030\\source\\repos\\tela_adm\\Alunos.xaml",
               "RelativeToolTip": "Alunos.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-16T13:26:43.229Z"
+              "WhenOpened": "2024-04-16T13:26:43.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\2022102020030\\source\\repos\\tela_adm\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",

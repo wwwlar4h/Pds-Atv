@@ -32,7 +32,7 @@
         </Grid>
         
         <Border Background="White" Grid.Column="1"/>
-            <TextBlock Text="Menu" FontFamily="Frank Ruhl Hofshi" FontSize="19" 
+            <TextBlock Text="Menu" FontFamily="Frank Ruhl Hofshi" FontSize="19" Padding="8"
                        VerticalAlignment="Top" HorizontalAlignment="Center"  Foreground="#FF2A3F80" />
 
         <StackPanel Grid.Row="1" VerticalAlignment="center" Margin="20" Grid.Column="0">
